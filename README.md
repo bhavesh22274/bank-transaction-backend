@@ -317,9 +317,3 @@ Possible future improvements include:
 B.Tech CSE (AIML)
 
 ---
-
-## ⭐ Project Status
-
-🚧 **Currently in development**
-
-This project is being built step-by-step while learning advanced backend development concepts.
