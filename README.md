@@ -32,42 +32,42 @@ This project is being built as a learning-focused backend project to understand 
 - [x] User Login
 - [x] JWT Authentication
 - [x] HTTP-only Cookies
-- [ ] Authentication Middleware
+- [x] Authentication Middleware
 
 ### Email
 
-- [ ] Registration Email
-- [ ] Transaction Notifications
+- [x] Registration Email
+- [x] Transaction Notifications
 
 ### Bank Account
 
-- [ ] Account Model
-- [ ] Account APIs
-- [ ] Account Status Validation
+- [x] Account Model
+- [x] Account APIs
+- [x] Account Status Validation
 
 ### Transactions
 
-- [ ] Transaction Model
-- [ ] Transaction Controller
-- [ ] Create Transaction API
-- [ ] Pending Transaction State
-- [ ] Idempotency Validation
+- [x] Transaction Model
+- [x] Transaction Controller
+- [x] Create Transaction API
+- [x] Pending Transaction State
+- [x] Idempotency Validation
 
 ### Ledger & Balance
 
-- [ ] Ledger Model
-- [ ] Ledger Entries
-- [ ] Balance Calculation using MongoDB Aggregation Pipeline
-- [ ] Balance API
+- [x] Ledger Model
+- [x] Ledger Entries
+- [x] Balance Calculation using MongoDB Aggregation Pipeline
+- [x] Balance API
 
 ### Security
 
-- [ ] Blacklist Model
-- [ ] Logout API
+- [x] Blacklist Model
+- [x] Logout API
 
 ### Deployment
 
-- [ ] Production Deployment
+- [x] Production Deployment
 
 ---
 
@@ -269,19 +269,6 @@ The `.env` file is excluded using `.gitignore`.
 ## 📈 Project Progress
 
 This project is being developed incrementally.
-
-### Current Progress
-
-```text
-Authentication       ██████████░░░░░░░░░░
-Bank Accounts        ░░░░░░░░░░░░░░░░░░░░
-Transactions         ░░░░░░░░░░░░░░░░░░░░
-Ledger               ░░░░░░░░░░░░░░░░░░░░
-Security             ░░░░░░░░░░░░░░░░░░░░
-Deployment           ░░░░░░░░░░░░░░░░░░░░
-```
-
----
 
 ## 🎯 Learning Objectives
 
